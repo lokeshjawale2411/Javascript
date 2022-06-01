@@ -1,0 +1,203 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
+* {
+  box-sizing: border-box;
+}
+/* lokesh jawale */
+body {
+  background-image: url(gm.jpg);
+  background-size: 1400px 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Poppins", sans-serif;
+  background-color: bisque;
+
+  min-height: 100vh;
+  margin: 0;
+}
+h1 {
+  font-weight: bold;
+  font-size: 4rem;
+  margin-top: 5rem;
+  color: whitesmoke;
+  text-align: center;
+}
+h1 span {
+  color: yellow;
+}
+h2 {
+  font-weight: 600;
+  font-size: 3rem;
+  text-align: center;
+  color: rgb(119, 15, 81);
+}
+h2 span {
+  color: yellow;
+}
+.countdown-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.big-text {
+  font-weight: bold;
+  font-size: 6rem;
+  line-height: 1;
+  margin: 1rem 2rem;
+  color: aquamarine;
+}
+
+.countdown-el {
+  text-align: center;
+}
+
+.countdown-el span {
+  font-size: 2rem;
+  font-weight: 900;
+  color: white;
+}
+
+@media only screen and (min-width: 426px) and (max-width: 640) {
+  body {
+    background-size: 100% 640px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100%;
+    text-align: center;
+  }
+  h1 {
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    text-align: center;
+  }
+  h2 {
+    font-weight: 600;
+    font-size: 1rem;
+    text-align: center;
+  }
+
+  .big-text {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+
+  .countdown-el {
+    text-align: center;
+  }
+
+  .countdown-el span {
+    font-size: 1rem;
+    font-weight: 900;
+    color: white;
+  }
+}
+
+@media only screen and (min-width: 641px) and (max-width: 768px) {
+  body {
+    background-size: 768px 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    width: 100%;
+  }
+  h1 {
+    font-weight: bold;
+    font-size: 3rem;
+    margin-top: 4rem;
+    text-align: center;
+  }
+  h2 {
+    font-weight: 600;
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .big-text {
+    font-weight: bold;
+    font-size: 4.5rem;
+  }
+
+  .countdown-el {
+    text-align: center;
+  }
+
+  .countdown-el span {
+    font-size: 2rem;
+    font-weight: 900;
+    color: white;
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  body {
+    background-size: 1024px 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    width: 100%;
+  }
+  h1 {
+    font-weight: bold;
+    font-size: 3.5rem;
+    margin-top: 4rem;
+    text-align: center;
+  }
+  h2 {
+    font-weight: 600;
+    font-size: 2.5rem;
+    text-align: center;
+  }
+
+  .big-text {
+    font-weight: bold;
+    font-size: 5rem;
+  }
+
+  .countdown-el {
+    text-align: center;
+  }
+
+  .countdown-el span {
+    font-size: 2rem;
+    font-weight: 900;
+    color: white;
+  }
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1280px) {
+  body {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    width: 100%;
+  }
+  h1 {
+    font-weight: bold;
+    font-size: 4rem;
+    margin-top: 5rem;
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  .big-text {
+    font-weight: bold;
+    font-size: 6rem;
+  }
+
+  .countdown-el {
+    text-align: center;
+  }
+
+  .countdown-el span {
+    font-size: 2rem;
+    font-weight: 900;
+    color: white;
+  }
+}
