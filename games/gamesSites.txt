@@ -1,0 +1,6 @@
+1)Tik Tak Toe
+deployed on netlify
+
+you can check the app on below link
+https://lokesh-tik-tak-toe-game.netlify.app/
+=========================================
