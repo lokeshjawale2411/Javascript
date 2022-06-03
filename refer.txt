@@ -1,0 +1,14 @@
+Quiz App
+https://uidesigndaily.fra1.digitaloceanspaces.com/uploads/924/day_924.png
+- question from obj
+- select answer
+- at the end show score
+
+==============================
+
+Recipe App
+https://uidesigndaily.fra1.digitaloceanspaces.com/uploads/615/day_615.png
+-list of recipes
+-recipe info on click
+-fav recipe (w/localstorage)
+==============================
