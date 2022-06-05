@@ -2,5 +2,5 @@
 deployed on netlify
 
 you can check the app on below link
-https://lokesh-tik-tak-toe-game.netlify.app/
+https://lokeshj-tiktactoe-game.netlify.app/
 =========================================
