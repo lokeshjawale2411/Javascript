@@ -17,3 +17,9 @@ deployed on netlify
 check on the link given below
 https://lokesh-quizapp.netlify.app/
 =========================================
+4)Notes App
+deployed on netlify
+
+check on the link given below
+https://lokesh-notesapp.netlify.app/
+=========================================
