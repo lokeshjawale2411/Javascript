@@ -30,3 +30,12 @@ deployed on netlify
 check on the link given below
 https://js-calci-lokeshj.netlify.app/
 =======================================
+=======================================
+Games
+1)Tik Tak Toe
+deployed on netlify
+
+you can check the app on below link
+https://lokeshj-tiktactoe-game.netlify.app/
+========================================
+=========================================
